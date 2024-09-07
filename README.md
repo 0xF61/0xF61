@@ -6,7 +6,8 @@ Hi there 👋,<br/>I'm Emir!
 
 ## I little bit about me
 
-🌱 &nbsp;I'm on track with learning more about H4ck1ng, DevOps and Software Architecture. <br/>
+💻 &nbsp;Working [@Insider](https://github.com/useinsider) <br/>
+🌱 &nbsp;I'm on track with learning more about H4ck1ng, DevSecOps and Software Architecture. <br/>
 😎 &nbsp;You can read my blog here ⤵️
 
 [![Blog](https://img.shields.io/badge/0xF61-black?style=flat-circle&label=Blog&labelColor=black&color=%23ff6611)](https://kurt.link/)
