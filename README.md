@@ -4,7 +4,7 @@ Hi there 👋,<br/>I'm Emir!
 
 <h3 align="center">Sr. Security Engineer | Pentester</h3>
 
-## I little bit about me
+## Little bit about me
 
 💻 &nbsp;Working [@Insider](https://github.com/useinsider) <br/>
 🌱 &nbsp;I'm on track with learning more about H4ck1ng, DevSecOps and Software Architecture. <br/>
