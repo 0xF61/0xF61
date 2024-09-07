@@ -1,11 +1,20 @@
-### Hi there 👋
+<h1 align="center">
+Hi there 👋,<br/>I'm Emir!
+</h1>
+
+<h3 align="center">Sr. Security Engineer | Pentester</h3>
+
+## I little bit about me
+
+🌱 &nbsp;I'm on track with learning more about H4ck1ng, DevOps and Software Architecture. <br/>
+😎 &nbsp;You can read my blog here ⤵️
 
 [![Blog](https://img.shields.io/badge/0xF61-black?style=flat-circle&label=Blog&labelColor=black&color=%23ff6611)](https://kurt.link/)
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kurtemirhan)
+
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xF61) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kurtemirhan)
 
 # 💻 Tech Stack:
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) 
@@ -40,17 +49,14 @@
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xF61&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xF61&theme=dark&hide_border=false)
 
+NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0xF61&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 ![](https://visitcount.itsvg.in/api?id=0xF61&icon=5&color=12)
-
