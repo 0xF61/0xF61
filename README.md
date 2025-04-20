@@ -10,7 +10,8 @@ Hi there 👋,<br/>I'm Emir!
 🌱 &nbsp;I'm on track with learning more about H4ck1ng, DevSecOps and Software Architecture. <br/>
 😎 &nbsp;You can read my blog here ⤵️
 
-[![Blog](https://img.shields.io/badge/0xF61-black?style=flat-circle&label=Blog&labelColor=black&color=%23ff6611)](https://kurt.link/)
+[![Field Notes](https://img.shields.io/badge/de2.in-black?style=flat-circle&label=Field+Notes&labelColor=black&color=%23ff6611)](https://de2.in/)
+[![Blog](https://img.shields.io/badge/kurt.link-black?style=flat-circle&label=Blog&labelColor=black&color=%23ff6611)](https://kurt.link/)
 
 ## 🌐 Socials:
 
